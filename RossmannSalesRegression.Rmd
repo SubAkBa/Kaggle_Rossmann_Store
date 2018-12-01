@@ -6,7 +6,7 @@ output: html_document
 ---
 
 # 1. Rossmann Store 
-![<Rossmann 가게 전경>](/Users/juneyonglee/Desktop/패스트캠퍼스/project/red.data.rossmann/Rossmann.png)
+![<Rossmann 가게 전경>](/Rossmann.png)
 ***
 
 ### * 1.1 개요
