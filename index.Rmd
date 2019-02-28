@@ -462,3 +462,5 @@ rossmannhat_lm <- mutate(rossmannhat_lm,
 
 이상 <strong><span style="color:red">빨간 데이터</span></strong> 였습니다. 
 감사합니다. 
+
+***
