@@ -5,8 +5,7 @@ date: "2018년 8월 8일"
 output: html_document
 ---
 
-# 1. Rossmann Store 
-![<Rossmann 가게 전경>](/Rossmann.png)
+# 1. Rossmann Store
 ***
 
 ### * 1.1 개요
@@ -80,7 +79,7 @@ library(lm.beta)
 
 # 경로설정
 
-setwd("C:/R/FastCampus/RegressionPr/")
+setwd("D:/Analysis_Data/Kaggle_Rossmann_Store/")
 getwd()
 # 데이터 불러오기
 train <- read.csv("train.csv", header = TRUE)
